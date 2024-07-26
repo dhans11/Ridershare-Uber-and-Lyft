@@ -37,7 +37,7 @@ Dataset ini mencakup beberapa fitur yang relevan untuk memprediksi tarif perjala
    - Evaluasi model untuk memastikan akurasi prediksi.
    - Bandingkan hasil model untuk Uber dan Lyft untuk memahami perbedaan dalam strategi penetapan harga antara kedua perusahaan.
 
-## Teknologi yang Digunakan
+## Tools yang Digunakan
 
 - **Python**: Bahasa pemrograman utama untuk membangun dan mengimplementasikan model.
 - **Pandas**: Untuk manipulasi dan analisis data.
